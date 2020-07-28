@@ -1,1 +1,5 @@
+baseurl: //bezzamlmc.github.io
 theme: jekyll-theme-architect
+title: Welcome to Laura B's homepage
+description: Follow my journey around the world and in tech
+show_downloads: false
