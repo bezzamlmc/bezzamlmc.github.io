@@ -3,7 +3,7 @@
 
 ## *My Professional Favorites*
 
-#### Simulating the word around us; design thru prototyping.
+#### Simulating the world around us; design through prototyping.
 #### Collaboration, teamwork, brainstorming.
 #### Integration of technologies; the sum of the parts contributes to innovation.
 
@@ -11,7 +11,7 @@
 
 #### Sunny **California**.
 #### The Adriatic in **Italy**.
-#### Buenos Aires ... where all started.
+#### Buenos Aires ... where it all started.
 #### Lausanne and Lac Leman.
 #### The Black Forest, Goethe's refuge.
 #### That place that is waiting for me or not? The **moon**.
